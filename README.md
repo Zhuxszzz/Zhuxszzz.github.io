@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -268,7 +267,7 @@
   })(document.getElementById('pinkboard'));
 </script>
 <div class="namebox">
-  <h1>SS&#10084;&#65039;ZY</h1>
+  <h1>给您磕头了</h1>
 </div>
 </body>
 </html>
